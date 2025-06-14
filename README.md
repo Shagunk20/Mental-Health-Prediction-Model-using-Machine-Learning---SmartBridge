@@ -1,1 +1,1 @@
-# Mental-Health-Prediction-Model-using-Machine-Learning---SmartBridge
+# Mental-Health-Prediction-Model-using-Machine-Learning
